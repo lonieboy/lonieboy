@@ -16,4 +16,17 @@
 
 ## Projects
 - Ticketing Queue System
+
+<details>
+<summary><b>Achievements</b></summary>
+
+<br>
+###  Elementary
+- **With Honors**
+
+###  Junior High School
+- **With Honors**
+
   
+###
+</details>
