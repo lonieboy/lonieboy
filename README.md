@@ -1,12 +1,12 @@
- Hey, we are aira and zyrenne
+# **Hey, we are Aira and Zyrenne!**
 
-🎓 Student    
+🎓 IT Students    
 🐍 Currently studying Python   
-  
+
 
 ## Skills
-- python
-- C
+- Python
+- C Language
   
 
 ## Goals
