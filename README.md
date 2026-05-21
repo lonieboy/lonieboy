@@ -28,6 +28,8 @@
 ###  Junior High School
 - **With Honors**
 
+### Senior High School
+- **With Honors**
   
 ###
 </details>
